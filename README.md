@@ -5,8 +5,8 @@ This repository contains public audit reports conducted by the Orion team.
 
 ## Reports
 
-| Protocol             | Date        | Type           | Report                                                                                                                 |
-|----------------------|-------------|----------------|------------------------------------------------------------------------------------------------------------------------|
-| Teller ERC4626 Vault | 2025-05-25  | DeFi, Vault    | [Audit Report](https://github.com/orionsecxyz/public-audit-reports/blob/main/2025_05_25_teller_erc4626_vault.pdf)      |
+| Protocol             | Date         | Report                                                                                                                 |
+|----------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
+| Superform V2 Core    | August, 2025 | [Audit Report](https://github.com/orionsecxyz/public-audit-reports/blob/main/2025_05_25_teller_erc4626_vault.pdf)      |
 
 
