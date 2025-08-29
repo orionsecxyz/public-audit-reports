@@ -1,5 +1,3 @@
-![orion](https://raw.githubusercontent.com/orionsecxyz/public-audit-reports/master/orion_background.png)
-
 # Public audit reports
 This repository contains public audit reports conducted by the Orion team.
 
